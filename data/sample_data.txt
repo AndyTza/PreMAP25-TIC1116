@@ -1,0 +1,9 @@
+# Sample Data for PreMAP25-TIC1116
+# This is a placeholder data file
+# You can add your research data here
+
+Date: 2025-10-31
+Project: PreMAP Research Project 2025/2026
+Target: TIC1116
+
+# Add your observational data, analysis results, or other relevant information below
